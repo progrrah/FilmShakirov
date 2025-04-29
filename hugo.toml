@@ -1,4 +1,21 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://progrrah.github.io/FilmShakirov/"
+languageCode = "ru"
+title = "FilmShakirov"
 theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Добро пожаловать!", Content = "Здесь я делюсь своими любимыми фильмами." }
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+
+[menu]
+[[menu.main]]
+  name = "Главная"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Фильмы"
+  url = "/posts/"
+  weight = 2

@@ -3,20 +3,20 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # основная ветка, откуда запускается сборка
+      - main
 
 permissions:
-  contents: write  # 👈 важно для публикации
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
+      - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: true  # 👈 обязательно, если тема — submodule
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -24,10 +24,10 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build site
-        run: hugo --minify
+      - name: Build
+        run: hugo --minify --baseURL="https://progrrah.github.io/FilmShakirov/"
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
