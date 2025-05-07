@@ -1,7 +1,12 @@
 baseURL = "https://progrrah.github.io/FilmShakirov/"
 languageCode = "ru"
 title = "FilmShakirov"
-theme = "stack"
+theme = "hugo-theme-stack"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   homeInfoParams = { Title = "Добрый день!", Content = "На этом сайте будут материалы, посвященные Ильгаму Шакирову." }

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>FilmShakirov</title>
-        <link>http://localhost:1313/FilmShakirov/</link>
+        <link>https://progrrah.github.io/FilmShakirov/</link>
         <description>Recent content on FilmShakirov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
-        <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/FilmShakirov/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://progrrah.github.io/FilmShakirov/index.xml" rel="self" type="application/rss+xml" /><item>
         <title> ЕЛЛАР ТАБЛИЦАСЫ</title>
-        <link>http://localhost:1313/FilmShakirov/posts/ellar/</link>
+        <link>https://progrrah.github.io/FilmShakirov/posts/ellar/</link>
         <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/FilmShakirov/posts/ellar/</guid>
+        <guid>https://progrrah.github.io/FilmShakirov/posts/ellar/</guid>
         <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -552,28 +552,34 @@
         </item>
         <item>
         <title>Фильм 1: Побег из Шоушенка</title>
-        <link>http://localhost:1313/FilmShakirov/posts/first-post/</link>
+        <link>https://progrrah.github.io/FilmShakirov/posts/first-post/</link>
         <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/FilmShakirov/posts/first-post/</guid>
+        <guid>https://progrrah.github.io/FilmShakirov/posts/first-post/</guid>
         <description>&lt;p&gt;Фильм о надежде, свободе и человеческой силе духа.&lt;/p&gt;
+&lt;div style=&#34;max-width: 100%; height: auto;&#34;&gt;
+  &lt;video controls style=&#34;width: 100%; height: auto;&#34;&gt;
+    &lt;source src=&#34;../../static/fs62437.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>
         <title>Фильм 2: Побег из Никуда</title>
-        <link>http://localhost:1313/FilmShakirov/posts/second-post/</link>
+        <link>https://progrrah.github.io/FilmShakirov/posts/second-post/</link>
         <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/FilmShakirov/posts/second-post/</guid>
+        <guid>https://progrrah.github.io/FilmShakirov/posts/second-post/</guid>
         <description>&lt;p&gt;Фильм о воде&lt;/p&gt;
 </description>
         </item>
         <item>
         <title></title>
-        <link>http://localhost:1313/FilmShakirov/posts/film/</link>
+        <link>https://progrrah.github.io/FilmShakirov/posts/film/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/FilmShakirov/posts/film/</guid>
+        <guid>https://progrrah.github.io/FilmShakirov/posts/film/</guid>
         <description></description>
         </item>
         

@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/FilmShakirov/films/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/films/</loc>
     <lastmod>2025-05-01T15:32:39+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/</loc>
     <lastmod>2025-05-01T15:32:39+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/posts/ellar/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/posts/ellar/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/posts/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/posts/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/posts/first-post/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/posts/first-post/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/posts/second-post/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/posts/second-post/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/posts/film/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/posts/film/</loc>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/categories/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/FilmShakirov/tags/</loc>
+    <loc>https://progrrah.github.io/FilmShakirov/tags/</loc>
   </url>
 </urlset>
