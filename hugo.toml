@@ -1,10 +1,10 @@
 baseURL = "https://progrrah.github.io/FilmShakirov/"
 languageCode = "ru"
 title = "FilmShakirov"
-theme = "PaperMod"
+theme = "stack"
 
 [params]
-  homeInfoParams = { Title = "Добро пожаловать!", Content = "Здесь я делюсь своими любимыми фильмами." }
+  homeInfoParams = { Title = "Добрый день!", Content = "На этом сайте будут материалы, посвященные Ильгаму Шакирову." }
   ShowReadingTime = true
   ShowShareButtons = true
   ShowCodeCopyButtons = true
@@ -16,6 +16,23 @@ theme = "PaperMod"
   weight = 1
 
 [[menu.main]]
-  name = "Фильмы"
+  name = "Фотолар"
   url = "/posts/"
   weight = 2
+
+[[menu.main]]
+  name = "Аудиолар"
+  url = "/posts/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Хатлар"
+  url = "/posts/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Хатлар"
+  url = "/posts/"
+  weight = 4
+
+  

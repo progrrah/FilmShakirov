@@ -1,0 +1,9 @@
+{{ $filePath := .Get 0 }}
+{{ $page := .Site.GetPage "content" $filePath }}
+
+{{ if $page }}
+  {{ $content := $page.Content }}
+  {{ $content | markdownify }}
+{{ else }}
+  <p>File not found: {{ $filePath }}</p>
+{{ end }}

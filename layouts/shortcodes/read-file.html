@@ -1,0 +1,4 @@
+{{ $filePath := .Get 0 }}
+{{ $file := resources.Get $filePath }}
+{{ $content := $file.Content | transform.Unmarshal }}
+{{ $content }}

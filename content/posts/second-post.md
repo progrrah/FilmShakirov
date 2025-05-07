@@ -5,3 +5,4 @@ draft: false
 ---
 
 Фильм о воде
+<!-- {{< csvtable "data/ellar.csv" >}} -->

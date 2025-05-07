@@ -1,26 +1,581 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>FilmShakirov</title>
-    <link>http://localhost:1313/FilmShakirov/</link>
-    <description>Recent content on FilmShakirov</description>
-    <generator>Hugo -- 0.147.0</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/FilmShakirov/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Фильм 1: Побег из Шоушенка</title>
-      <link>http://localhost:1313/FilmShakirov/posts/first-post/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FilmShakirov/posts/first-post/</guid>
-      <description>&lt;p&gt;Фильм о надежде, свободе и человеческой силе духа.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Фильм 2: Побег из Никуда</title>
-      <link>http://localhost:1313/FilmShakirov/posts/second-post/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FilmShakirov/posts/second-post/</guid>
-      <description>&lt;p&gt;Фильм о воде&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>FilmShakirov</title>
+        <link>http://localhost:1313/FilmShakirov/</link>
+        <description>Recent content on FilmShakirov</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/FilmShakirov/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title> ЕЛЛАР ТАБЛИЦАСЫ</title>
+        <link>http://localhost:1313/FilmShakirov/posts/ellar/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/FilmShakirov/posts/ellar/</guid>
+        <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ел&lt;/th&gt;
+          &lt;th&gt;Вакыйга&lt;/th&gt;
+          &lt;th&gt;Яшь&lt;/th&gt;
+          &lt;th&gt;Урын&lt;/th&gt;
+          &lt;th&gt;Персонажлар&lt;/th&gt;
+          &lt;th&gt;Вакыйга төре&lt;/th&gt;
+          &lt;th&gt;Цитата&lt;/th&gt;
+          &lt;th&gt;Чыганак(бит)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1935&lt;/td&gt;
+          &lt;td&gt;Татарстан АССР Ворошилов районының (1957 елдан Яңа Юл районы, 1959 елдан Сарман районы, 1976 елдан Тукай районы)авылында алты балалы гаиләдә төпчек бала булып Илһам Гыйльметдин улы Шакиров туа.&lt;/td&gt;
+          &lt;td&gt;0&lt;/td&gt;
+          &lt;td&gt;Яңа Бүләк&lt;/td&gt;
+          &lt;td&gt;Әтисе, әнисе&lt;/td&gt;
+          &lt;td&gt;туу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Туу таныклыгында Сарман районы дип язып калдырылган&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1938&lt;/td&gt;
+          &lt;td&gt;Беренче җырлау хатирәләре&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Яңа Бүләк&lt;/td&gt;
+          &lt;td&gt;Туганнары, күршеләре&lt;/td&gt;
+          &lt;td&gt;хатирә&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;33&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1941&lt;/td&gt;
+          &lt;td&gt;Абыйсын Имаметдин сугышака озаталар&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;Яңа Бүләк&lt;/td&gt;
+          &lt;td&gt;Имам Шакиров&lt;/td&gt;
+          &lt;td&gt;югалту&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;34&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1945&lt;/td&gt;
+          &lt;td&gt;Ф. Йосыпов белән беренче очрашу&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;Яңа Бүләк&lt;/td&gt;
+          &lt;td&gt;Ф. Йосыпов&lt;/td&gt;
+          &lt;td&gt;очрашу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;173&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1945&lt;/td&gt;
+          &lt;td&gt;Тегермәнгә арыш тарттырырга бару. Гаделсезлек белән очрашу&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Тегермәнче&lt;/td&gt;
+          &lt;td&gt;кичереш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;210&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1947&lt;/td&gt;
+          &lt;td&gt;Чабата сату күренеше&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;кичереш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;213&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1951&lt;/td&gt;
+          &lt;td&gt;Халык алдында чыгышы. Урман кызы җыр&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;Теләнче Тамак&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;400&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1954&lt;/td&gt;
+          &lt;td&gt;Мәктәптә тәмам. Укырга керү&lt;/td&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td&gt;Теләнче Тамак, Алабуга, Казан&lt;/td&gt;
+          &lt;td&gt;Клара Мостафина&lt;/td&gt;
+          &lt;td&gt;уку&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1957&lt;/td&gt;
+          &lt;td&gt;Сентябрь аенда Г. Сөләйманова белән радиоконцертлар бирү&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+          &lt;td&gt;Казан&lt;/td&gt;
+          &lt;td&gt;Г. Сөләйманова&lt;/td&gt;
+          &lt;td&gt;концерт&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;46&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1958&lt;/td&gt;
+          &lt;td&gt;Башка берни дә кирәкми җыры туы&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Мансур Мозаффаров, Сибгат Хәким&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;43&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1959&lt;/td&gt;
+          &lt;td&gt;Чыгыш ясау&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;Мәскәү, Чайковский залы&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1959&lt;/td&gt;
+          &lt;td&gt;Яшь җырчылар конкурсында катнашу&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;конкурс&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;48&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1959&lt;/td&gt;
+          &lt;td&gt;Керфекләрең синең нигә кара җыры&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;162&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1959&lt;/td&gt;
+          &lt;td&gt;Татар артистлары белән беренче танышулар&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;Мәскәү, М. Щепкин исемендәге театр училищисе&lt;/td&gt;
+          &lt;td&gt;Рабит Батулла, Ринат Таҗи, башкалар&lt;/td&gt;
+          &lt;td&gt;очрашу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;216&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1959&lt;/td&gt;
+          &lt;td&gt;Җәй айларында Татарстан авыллары буйлап сәяхәт&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;Татарстан&lt;/td&gt;
+          &lt;td&gt;Рабит Батулла, Ринат Таҗи&lt;/td&gt;
+          &lt;td&gt;сәяхәт&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;217&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1960&lt;/td&gt;
+          &lt;td&gt;Фәттах Латыйпов кичәсендә катнашу&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;Казан&lt;/td&gt;
+          &lt;td&gt;Фәттах Латыйпов&lt;/td&gt;
+          &lt;td&gt;чыгыш, очрашу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;47&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1960&lt;/td&gt;
+          &lt;td&gt;Консерваторияны тәмамлау. Филармонияга эшкә керү&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;Казан&lt;/td&gt;
+          &lt;td&gt;Елена Абросимова&lt;/td&gt;
+          &lt;td&gt;тәмамлау, эшкә керү&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;63&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1960&lt;/td&gt;
+          &lt;td&gt;Туган җирем - Татарстан җыры туа&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Александр Ключаров, Гөлшат Зәйнәшева&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;73&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1961&lt;/td&gt;
+          &lt;td&gt;Урман кызы янәдән&lt;/td&gt;
+          &lt;td&gt;26&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;401&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1962&lt;/td&gt;
+          &lt;td&gt;Һаман истә җыры&lt;/td&gt;
+          &lt;td&gt;27&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Ләбиб Айтуган&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;162&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1964&lt;/td&gt;
+          &lt;td&gt;Татарстан атказанган артисты исеме&lt;/td&gt;
+          &lt;td&gt;29&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;исем алу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1965&lt;/td&gt;
+          &lt;td&gt;Китмә, сандугач җыры&lt;/td&gt;
+          &lt;td&gt;30&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Рөстәм Яхин, Гөлшат Зәйнәшева&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;73&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1965&lt;/td&gt;
+          &lt;td&gt;гыйнварь Ташкент гастроль&lt;/td&gt;
+          &lt;td&gt;30&lt;/td&gt;
+          &lt;td&gt;Ташкент&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;368&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1966&lt;/td&gt;
+          &lt;td&gt;Натан Рахлин оркестры белән җырлый башлау&lt;/td&gt;
+          &lt;td&gt;31&lt;/td&gt;
+          &lt;td&gt;Казан&lt;/td&gt;
+          &lt;td&gt;Натан Рахлин&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;11&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1966&lt;/td&gt;
+          &lt;td&gt;Тукай юбилеенда җырлау&lt;/td&gt;
+          &lt;td&gt;31&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1966&lt;/td&gt;
+          &lt;td&gt;Җәлил юбиленнда җырлау&lt;/td&gt;
+          &lt;td&gt;31&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1967&lt;/td&gt;
+          &lt;td&gt;Абыйсы белән концерт уздыру&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;концерт&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;47&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1967&lt;/td&gt;
+          &lt;td&gt;Бөтенсоюз телевидеонисында чыгыш ясау&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;63&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1967&lt;/td&gt;
+          &lt;td&gt;Агарту лекциясе укыла&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Шамиль Закиров&lt;/td&gt;
+          &lt;td&gt;лекция&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;220&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1967&lt;/td&gt;
+          &lt;td&gt;Урта Азия концерт гастрольләре&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;Урта Азия шәһәрләре&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;222&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1968&lt;/td&gt;
+          &lt;td&gt;Финляндияда гастрольлар&lt;/td&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;Финляндия шәһәрләре&lt;/td&gt;
+          &lt;td&gt;Рөстәм Яхин, Марат Әхмәтов, Айрат Арслан, Оркыя Ибраһимова, Венера Шарипова&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1968&lt;/td&gt;
+          &lt;td&gt;Безнең авыл җыры&lt;/td&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;164&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1968&lt;/td&gt;
+          &lt;td&gt;Стәрлетамак җирләрендә гастроль белән&lt;/td&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;Стәрлетамак&lt;/td&gt;
+          &lt;td&gt;Хәмдүнә Тимергалиева&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;345&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1968&lt;/td&gt;
+          &lt;td&gt;Разил Вәлиев белән танышу. Дулкын җыры&lt;/td&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;Мәскәү&lt;/td&gt;
+          &lt;td&gt;Разил Вәлиев&lt;/td&gt;
+          &lt;td&gt;танышу, җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;506&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1969&lt;/td&gt;
+          &lt;td&gt;Татар халык җырлары концертын тапшыру&lt;/td&gt;
+          &lt;td&gt;34&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Ренат Еники, Сәйдәш Гарифуллин&lt;/td&gt;
+          &lt;td&gt;концерт&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;55&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1969&lt;/td&gt;
+          &lt;td&gt;ТАССР халык артисты исеме&lt;/td&gt;
+          &lt;td&gt;34&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;исем алу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1971&lt;/td&gt;
+          &lt;td&gt;Партия обкомы Кунаев белән сөйләшү&lt;/td&gt;
+          &lt;td&gt;36&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Кунаев&lt;/td&gt;
+          &lt;td&gt;очрашу&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1972&lt;/td&gt;
+          &lt;td&gt;Концерт белән чыгыш&lt;/td&gt;
+          &lt;td&gt;37&lt;/td&gt;
+          &lt;td&gt;Мәскәү&lt;/td&gt;
+          &lt;td&gt;Ростропович&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;26&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1973&lt;/td&gt;
+          &lt;td&gt;Җырчы китабы&lt;/td&gt;
+          &lt;td&gt;38&lt;/td&gt;
+          &lt;td&gt;Казан&lt;/td&gt;
+          &lt;td&gt;Равил Фәхретдинов&lt;/td&gt;
+          &lt;td&gt;китаб&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;87&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1974&lt;/td&gt;
+          &lt;td&gt;Кыргызстан гастрольләре&lt;/td&gt;
+          &lt;td&gt;39&lt;/td&gt;
+          &lt;td&gt;Кыргызстан&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;101&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1980&lt;/td&gt;
+          &lt;td&gt;Мелодияда Туган моңнар альбомы чыга(1986 дөресе)&lt;/td&gt;
+          &lt;td&gt;45&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Рамил Курамшин&lt;/td&gt;
+          &lt;td&gt;альбом&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;420&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1989&lt;/td&gt;
+          &lt;td&gt;Уян, татар җыры туа&lt;/td&gt;
+          &lt;td&gt;54&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;349&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1989&lt;/td&gt;
+          &lt;td&gt;Мәңгәлеккә китеп барам җыры&lt;/td&gt;
+          &lt;td&gt;54&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;458&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1992&lt;/td&gt;
+          &lt;td&gt;М. Мозаффаров турында радиотапшыру&lt;/td&gt;
+          &lt;td&gt;57&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Шәмсия Җиһангирова, Мансур Мозаффаров&lt;/td&gt;
+          &lt;td&gt;тапшыру&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;376&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1993&lt;/td&gt;
+          &lt;td&gt;Ике Илһам Шакиров җырлый&lt;/td&gt;
+          &lt;td&gt;58&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1999&lt;/td&gt;
+          &lt;td&gt;Булачак ансамбль турында мәк-се&lt;/td&gt;
+          &lt;td&gt;64&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;мәкалә&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;423&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2002&lt;/td&gt;
+          &lt;td&gt;Беренче туган концерты елы&lt;/td&gt;
+          &lt;td&gt;67&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;концерт&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;437&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1972,1975,1978&lt;/td&gt;
+          &lt;td&gt;Финляндияда гастрольлар&lt;/td&gt;
+          &lt;td&gt;#VALUE!&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;408&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;утыз ел элек&lt;/td&gt;
+          &lt;td&gt;Әлмәттә гастроль белән булу&lt;/td&gt;
+          &lt;td&gt;#VALUE!&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Аяз Гыйләҗев, Кирам Сатиев&lt;/td&gt;
+          &lt;td&gt;гастроль&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;328&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1947&lt;/td&gt;
+          &lt;td&gt;Сәхнәдә беренче тапкыр җырлавы&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;Теләнче Тамак&lt;/td&gt;
+          &lt;td&gt;Марс Гаитов&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;506&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1957&lt;/td&gt;
+          &lt;td&gt;Зур сәхнәдә беренче чыгышы. Зәңгәр шәл спектаклендә Кара урман ариясын башкара&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+          &lt;td&gt;Казан, Кәрим Тинчурын театры&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;чыгыш&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1960&lt;/td&gt;
+          &lt;td&gt;Менәргә иде Урал тауларына җыры&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Гөлшат Зәйнәшева, Мансур Мозаффаров&lt;/td&gt;
+          &lt;td&gt;җыр&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Марс Гаитов мәк-се&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
+        <title>Фильм 1: Побег из Шоушенка</title>
+        <link>http://localhost:1313/FilmShakirov/posts/first-post/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/FilmShakirov/posts/first-post/</guid>
+        <description>&lt;p&gt;Фильм о надежде, свободе и человеческой силе духа.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Фильм 2: Побег из Никуда</title>
+        <link>http://localhost:1313/FilmShakirov/posts/second-post/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/FilmShakirov/posts/second-post/</guid>
+        <description>&lt;p&gt;Фильм о воде&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/FilmShakirov/posts/film/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/FilmShakirov/posts/film/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

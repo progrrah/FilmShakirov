@@ -5,3 +5,6 @@ draft: false
 ---
 
 Фильм о надежде, свободе и человеческой силе духа.
+
+<!-- {{< read-file "posts/ellar.md" >}} -->
+<!-- {{< include-md "tables/ellar.md" >}} -->
