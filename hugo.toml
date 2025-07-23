@@ -3,10 +3,8 @@ languageCode = "ru"
 title = "FilmShakirov"
 theme = ["hugo-video", "hugo-theme-stack"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[imaging]
+  enabled = true
 
 [params]
   homeInfoParams = { Title = "Добрый день!", Content = "На этом сайте будут материалы, посвященные Ильгаму Шакирову." }
@@ -22,21 +20,21 @@ theme = ["hugo-video", "hugo-theme-stack"]
 
 [[menu.main]]
   name = "Фотолар"
-  url = "/posts/"
+  url = "/photos/"
   weight = 2
 
 [[menu.main]]
-  name = "Аудиолар"
-  url = "/posts/"
+  name = "Җырлар"
+  url = "/musics/"
   weight = 3
 
   [[menu.main]]
-  name = "Хатлар"
+  name = "Документлар"
   url = "/posts/"
   weight = 4
 
   [[menu.main]]
-  name = "Хатлар"
+  name = "Биография"
   url = "/posts/"
   weight = 4
 
