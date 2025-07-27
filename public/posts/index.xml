@@ -2,42 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on FilmShakirov</title>
-        <link>https://progrrah.github.io/FilmShakirov/posts/</link>
+        <link>http://localhost:1313/FilmShakirov/posts/</link>
         <description>Recent content in Posts on FilmShakirov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
-        <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://progrrah.github.io/FilmShakirov/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/FilmShakirov/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Ильгам Шакиров. Жизненный путь</title>
-        <link>https://progrrah.github.io/FilmShakirov/posts/first-post/</link>
+        <link>http://localhost:1313/FilmShakirov/posts/first-post/</link>
         <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://progrrah.github.io/FilmShakirov/posts/first-post/</guid>
-        <description>&lt;img src="https://progrrah.github.io/photos/photo_1_2025-07-23_21-10-50.jpg" alt="Featured image of post Ильгам Шакиров. Жизненный путь" /&gt;&lt;h2 id=&#34;рождение&#34;&gt;Рождение
+        <guid>http://localhost:1313/FilmShakirov/posts/first-post/</guid>
+        <description>&lt;h2 id=&#34;рождение&#34;&gt;Рождение
 &lt;/h2&gt;&lt;p&gt;Ильгам Шакиров рождается в деревни Яңа Бүләк Ворошиловского района в 1935 году в семьи кузнеца Гыйльметдина.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://progrrah.github.io/FilmShakirov/photos/photo_1_2025-07-23_21-10-50.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;чтот там&#34;
-	
-	
-&gt;&lt;/p&gt;
 &lt;h2 id=&#34;горе-в-семье&#34;&gt;Горе в семье
 &lt;/h2&gt;&lt;p&gt;В 1938 году отца забирают, он враг народа, пропагандист террористических идей.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://progrrah.github.io/FilmShakirov/static/photos/photo_1_2025-07-23_21-10-50.jpg&#34;
-	
-	
-	
+&lt;audio controls preload=&#34;auto&#34;&gt;
+
+    &lt;source src=&#34;025.%20%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%20%d0%ba%d0%be%d0%b5.mp3&#34;&gt;
+
+&lt;/audio&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/FilmShakirov/posts/first-post/image.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;719&#34;
+	srcset=&#34;http://localhost:1313/FilmShakirov/posts/first-post/image_hu_7b2f7eddc218abc9.png 480w, http://localhost:1313/FilmShakirov/posts/first-post/image_hu_8aeb3ce808f79664.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;alt text&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
         </item>
         
